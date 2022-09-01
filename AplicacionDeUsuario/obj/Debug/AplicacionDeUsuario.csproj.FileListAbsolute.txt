@@ -1,0 +1,10 @@
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\bin\Debug\AplicacionDeUsuario.exe.config
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\bin\Debug\AplicacionDeUsuario.exe
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\bin\Debug\AplicacionDeUsuario.pdb
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.csprojAssemblyReference.cache
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.Form1.resources
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.Properties.Resources.resources
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.csproj.GenerateResource.cache
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.exe
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.pdb

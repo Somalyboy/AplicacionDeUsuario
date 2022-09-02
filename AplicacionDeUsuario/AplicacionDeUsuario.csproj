@@ -89,5 +89,14 @@
   <ItemGroup>
     <None Include="Properties\settings.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner_Coca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino-banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner_Divino.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

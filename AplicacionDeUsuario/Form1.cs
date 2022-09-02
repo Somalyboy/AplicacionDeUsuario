@@ -53,5 +53,17 @@ namespace AplicacionDeUsuario
         {
 
         }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            /*Image img = pictureBox4.Image;
+            img.RotateFlip(RotateFlipType.Rotate90FlipNone);
+            pictureBox4.Image = img;*/
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

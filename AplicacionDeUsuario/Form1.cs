@@ -65,5 +65,11 @@ namespace AplicacionDeUsuario
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            Login form = new Login();
+            form.Show();
+        }
     }
 }

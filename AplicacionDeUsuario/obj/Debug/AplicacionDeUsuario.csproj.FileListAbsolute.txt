@@ -8,3 +8,4 @@ C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\
 C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.csproj.CoreCompileInputs.cache
 C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.exe
 C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.pdb
+C:\Users\Luciano Vidal\source\repos\AplicacionDeUsuario\AplicacionDeUsuario\obj\Debug\AplicacionDeUsuario.Login.resources
